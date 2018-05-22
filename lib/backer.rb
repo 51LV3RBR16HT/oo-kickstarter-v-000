@@ -1,3 +1,3 @@
-class Backers
+class Backer
 
 end
