@@ -3,7 +3,7 @@ class Backer
   attr_accessor :name
 
   # BACKER = []
-  @backed_projects = []
+  # @backed_projects = []
 
   def initilize(name)
     @name = name
